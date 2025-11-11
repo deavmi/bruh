@@ -1,0 +1,5 @@
+package boy;
+
+func Hello() {
+	
+}
