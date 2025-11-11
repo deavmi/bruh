@@ -1,5 +1,5 @@
 package dude;
 
-func Hello() {
+func Hdello() {
 	
 }
