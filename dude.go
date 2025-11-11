@@ -1,4 +1,4 @@
-package boy;
+package dude;
 
 func Hello() {
 	
