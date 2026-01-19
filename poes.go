@@ -1,4 +1,4 @@
-package fokker;
+package dude;
 
 func Naai() {
 }
