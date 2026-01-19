@@ -3,5 +3,5 @@ package boy;
 import "fmt";
 
 func Bye() {
-  fmt.Printf("Goodbye!\n);
+  fmt.Printf("Goodbye!\n");
 }
