@@ -1,0 +1,4 @@
+package fokker;
+
+func Naai() {
+}
